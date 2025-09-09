@@ -1,0 +1,30 @@
+Document Outline for structure.html:
+1. header
+    1. <h1> Comp 484
+    2. <h2> Structuring Pages
+    3. <nav> navigation links
+        1. "Introduction to HTML"
+        2. "HTML syntax"
+        3. "Structuring pages"
+        4. "Creating links"
+        5. "HTML Reference"
+        6. "Next steps"
+2. main
+    1. article
+        1. header
+            1. <h3> Conveying meaning through structure
+        2. section
+            1. <h3> Sectioning elements
+        3. section
+            1. <h3>Document outlines </h3>
+            2. aside role="complementary"
+                1.<h4> W3C Warning
+        4. section
+            1. <h3>WAI-ARIA Roles
+3. footer
+    1. link and contact info
+
+Aside is used to show side content like the W3C Warning.
+Article is used wrap main content. 
+Nav is used to contain links.
+Section is seperating and grouping similar content. 
